@@ -1,27 +1,27 @@
-# PalindroneCheckerApp
-
-// Using the Java Language developing PalindromeCheckerApp.
-//To Check Palindrome Number
-
-## Use Case 1: Application Entry & Welcome Message
-Application Name
-Application Version
-Welcome Message
-
-###  compile and run the program
- compilation is successful
-
-## Expected Output
-
-
-Welcome to Palindrome Checker App
-Version 1.0
-
-Application initialized successfully.
-
-
-## Author
-Varsha
+**
+* ============================================================
+* MAIN CLASS – UseCase2PalindromeCheckerApp
+* ============================================================
+*
+* Use Case 2: Hardcoded Palindrome Validation
+*
+* Description:
+* This class demonstrates basic palindrome validation
+* using a predefined string value.
+*
+* At this stage, the application:
+*  - Stores a predefined string
+*  - Compares characters from both ends
+*  - Determines whether the string is a palindrome
+*  - Displays the result on the console
+*
+* This use case introduces fundamental comparison logic
+* before using advanced data structures.
+*
+* @author Varsha
+* @version 2.0
+* ============================================================
+  */
 
 
 
