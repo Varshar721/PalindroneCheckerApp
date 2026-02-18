@@ -1,27 +1,24 @@
-**
+/**
 * ============================================================
-* MAIN CLASS – UseCase2PalindromeCheckerApp
+* MAIN CLASS – UseCase3PalindromeCheckerApp
 * ============================================================
 *
-* Use Case 2: Hardcoded Palindrome Validation
+* Use Case 3: Reverse String Based Palindrome Check
 *
 * Description:
-* This class demonstrates basic palindrome validation
-* using a predefined string value.
+* This class checks whether a string is a palindrome
+* by reversing the string and comparing it with
+* the original value.
 *
 * At this stage, the application:
-*  - Stores a predefined string
-*  - Compares characters from both ends
-*  - Determines whether the string is a palindrome
-*  - Displays the result on the console
+*  - Iterates the string in reverse order
+*  - Builds a reversed version
+*  - Compares original and reversed strings
+*  - Displays the validation result
 *
-* This use case introduces fundamental comparison logic
-* before using advanced data structures.
+* This introduces transformation-based validation.
 *
 * @author Varsha
-* @version 2.0
+* @version 3.0
 * ============================================================
   */
-
-
-
